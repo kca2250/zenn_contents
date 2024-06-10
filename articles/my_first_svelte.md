@@ -163,7 +163,7 @@ HTMLブロックについては次回以降書きます。
 
 TypeScriptで実装する場合
 
-`script`タグのプロパティに`lan='ts'`を追加する必要があります。
+`script`タグのプロパティに`lang='ts'`を追加する必要があります。
 ```svelte
 <script lang='ts'>
 // ロジックを記述
